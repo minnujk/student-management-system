@@ -12,6 +12,7 @@
       composer self-update
       composer install
       npm install
+      npm run production
       php artisan key:generate
       php artisan migrate
       php artisan serve
