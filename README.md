@@ -5,10 +5,10 @@
  3. create new .env file from .env.example
  4. Add databse connection configurations  in .env file
  5. Run following commands
-      composer self-update
-      composer install
-      npm install
-      php artisan key:generate
-      php artisan migrate
-      php artisan serve
+      # composer self-update
+      # composer install
+      # npm install
+      # php artisan key:generate
+      # php artisan migrate
+      # php artisan serve
  
